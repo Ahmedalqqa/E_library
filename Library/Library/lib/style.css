@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* start navbar */
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 3.5rem !important;
+}
+nav{
+    padding: 15px !important;
+}
+.login{
+    width: 500px;
+    margin:60px auto;
+}
+.submit{
+    background-color: black;
+    color: white;
+    border: none;
+    border: 1px solid black;
+    padding: 10px;
+    width: 100%;
+    margin: auto;
+}
+.account{
+    text-decoration: none;
+    color: black;
+    margin-top: 20px;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+}
+
+.slider>div{
+    width: 100%;
+    height: 650px;
+}
+
+.slider>div img{
+    width: 100%;
+    height:100%;
+}
+.cat{
+    margin-top: 60px;
+}
+.cat .row>div a>div{
+    width: 100%;
+    height: 200px;
+}
+.cat .row>div a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+.cat .row>div a img{
+    width: 100%;
+    height: 100%;
+}
+
+.about{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.rent{
+    width: 800px;
+    margin: 130px auto;
+}
+.rent table{
+    border: 1px solid gray;
+}
